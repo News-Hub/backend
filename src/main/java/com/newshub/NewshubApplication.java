@@ -8,6 +8,7 @@ public class NewshubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NewshubApplication.class, args);
+		System.out.println();
 	}
 
 }
